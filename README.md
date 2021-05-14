@@ -2,3 +2,8 @@ This code repository hosts the [wiki](http://wiki.data-forge-notebook.com) for [
 
 [Click here to view the wiki](https://github.com/data-forge-notebook/wiki/wiki)
 
+To clone the wiki locally:
+
+```bash
+git clone git@github.com:data-forge-notebook/wiki.wiki.git wiki
+```
