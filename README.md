@@ -7,3 +7,6 @@ To clone the wiki locally:
 ```bash
 git clone git@github.com:data-forge-notebook/wiki.wiki.git wiki
 ```
+
+[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
